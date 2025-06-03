@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/book-lover-concept-illustration_114360-8054.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Science Facts",
+    "title": "Explore the world of scientific wonders and discoveries.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/science-lab-experiment-concept_23-2148491097.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Math Tricks",
+    "title": "Learn amazing math tricks to solve problems quickly.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/online-math-course-concept_23-2148627805.jpg"
+  },
+  {
+    "id": 4,
+    "name": "History Tales",
+    "title": "Stories from ancient times and historical events.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/history-subject-concept_23-2148812308.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Adventure Book",
+    "title": "Join the thrilling adventures through jungles and mountains.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/adventure-concept-illustration_114360-2894.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fairy Tales",
+    "title": "Magical stories for kids with fairylands and unicorns.",
+    "price": 50,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/fairytale-concept-illustration_114360-2901.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Programming 101",
+    "title": "Basic guide to learn programming for beginners.",
+    "price": 100,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/online-coding-concept_23-2148683855.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Drawing Guide",
+    "title": "Step-by-step guide to improve your drawing skills.",
+    "price": 75,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/drawing-lesson-concept-illustration_114360-7637.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Space Book",
+    "title": "Discover the planets, stars, and galaxies in our universe.",
+    "price": 60,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/space-education-concept_23-2148475851.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Health & Wellness",
+    "title": "Learn tips for staying healthy and maintaining wellness.",
+    "price": 40,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/health-concept-illustration_114360-7418.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Creative Writing",
+    "title": "Boost your writing skills with creative ideas and formats.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/creative-writing-illustration_23-2148710926.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Chess Mastery",
+    "title": "Master chess strategies and checkmate skills.",
+    "price": 30,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/strategy-concept-illustration_114360-7452.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Language Learning",
+    "title": "Learn popular languages easily and quickly.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/language-learning-concept_23-2148685466.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Photography Basics",
+    "title": "Click professional-level photos with basic knowledge.",
+    "price": 80,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/photography-concept-illustration_114360-7806.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Robotics for Kids",
+    "title": "Make fun robots using simple electronics.",
+    "price": 90,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/robotics-concept-illustration_114360-6965.jpg"
+  },
+  {
+    "id": 16,
+    "name": "AI Explained",
+    "title": "Understand Artificial Intelligence with real-world examples.",
+    "price": 120,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/artificial-intelligence-concept-illustration_114360-5166.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Mobile App Design",
+    "title": "Design amazing user-friendly mobile applications.",
+    "price": 150,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/app-development-concept_23-2148684982.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Meditation & Peace",
+    "title": "Guide to calm mind, breathing and inner peace.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/meditation-concept-illustration_114360-7416.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Startup Ideas",
+    "title": "Learn how to build, scale, and pitch your startup.",
+    "price": 200,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/startup-business-concept-illustration_114360-1197.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Cyber Security",
+    "title": "Understand how to stay safe online.",
+    "price": 110,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/cyber-security-concept-illustration_114360-4979.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Financial Planning",
+    "title": "Control your budget, savings and future investment.",
+    "price": 95,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/financial-planning-concept_23-2148619870.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Poetry Reading",
+    "title": "Enjoy classic and modern poetry collections.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/reading-poetry-concept_23-2148710717.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Cooking Class",
+    "title": "Learn to cook delicious meals and desserts.",
+    "price": 60,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/kids-cooking-concept-illustration_114360-12848.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Yoga Mastery",
+    "title": "Learn yoga for body flexibility and mental strength.",
+    "price": 50,
+    "category": "Paid",
+    "image": "https://img.freepik.com/free-vector/yoga-training-concept_23-2148515337.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Music Theory",
+    "title": "Understand how music works, notes and harmony.",
+    "price": 65,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/music-school-concept_23-2148489705.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Time Management",
+    "title": "Improve your productivity by mastering time.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/time-management-concept_23-2148688426.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Environmental Studies",
+    "title": "Study how nature and humans interact.",
+    "price": 55,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/ecology-concept-illustration_114360-5952.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Graphic Design Basics",
+    "title": "Start your journey into visual design and tools.",
+    "price": 99,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/graphic-design-concept_23-2148651504.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Digital Marketing",
+    "title": "Boost your brand and learn online marketing tools.",
+    "price": 120,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/digital-marketing-concept-illustration_114360-7294.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Web Development",
+    "title": "Frontend to backend full stack development course.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/web-development-concept-illustration_114360-8113.jpg"
+  },
+  {
+    "id": 31,
+    "name": "AI for Beginners",
+    "title": "Understand the basics of Artificial Intelligence in simple steps.",
+    "price": 120,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-112727.jpg"
+  },
+  {
+    "id": 32,
+    "name": "World Atlas",
+    "title": "Explore countries, cultures, and continents across the globe.",
+    "price": 90,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/world-map_23-2147493768.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Coding Projects",
+    "title": "Mini coding projects to practice Python, HTML, and JavaScript.",
+    "price": 110,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/source-code-concept-illustration_114360-5493.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Grammar Builder",
+    "title": "Master English grammar with easy-to-understand examples.",
+    "price": 30,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/english-lesson-concept-illustration_114360-7475.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Photography Basics",
+    "title": "Get started with photography using your smartphone or camera.",
+    "price": 85,
+    "category": "Hobby",
+    "image": "https://img.freepik.com/free-vector/flat-camera-photography-logo-template_23-2148902486.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Leadership Lessons",
+    "title": "Learn key leadership principles to become a confident leader.",
+    "price": 95,
+    "category": "Self Help",
+    "image": "https://img.freepik.com/free-vector/leadership-concept-illustration_114360-7563.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Digital Marketing",
+    "title": "Master SEO, social media, and email marketing strategies.",
+    "price": 150,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/digital-marketing-team-concept-illustration_114360-9148.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Chess for Kids",
+    "title": "Learn chess with fun illustrations and beginner tactics.",
+    "price": 20,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/kids-playing-chess-illustration_23-2148279988.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Cyber Safety",
+    "title": "Stay safe online with simple cyber security practices.",
+    "price": 70,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Creative Writing",
+    "title": "Unleash your imagination and write impactful stories.",
+    "price": 65,
+    "category": "Exclusive",
+    "image": "https://img.freepik.com/free-vector/flat-creative-writing-illustration_23-2149100550.jpg"
+  },
+  {
+    "id": 41,
+    "name": "Space Explorers",
+    "title": "Exciting stories of astronauts and space missions.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/space-shuttle-launching_1308-31342.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Mindfulness for Kids",
+    "title": "Simple exercises to help children relax and focus.",
+    "price": 30,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/mindfulness-concept-illustration_114360-7966.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Startup Ideas",
+    "title": "Great business ideas and planning tips for young entrepreneurs.",
+    "price": 100,
+    "category": "Self Help",
+    "image": "https://img.freepik.com/free-vector/startup-business-concept-illustration_114360-5856.jpg"
+  },
+  {
+    "id": 44,
+    "name": "DIY Crafts",
+    "title": "Creative hands-on craft projects using household items.",
+    "price": 55,
+    "category": "Hobby",
+    "image": "https://img.freepik.com/free-vector/handmade-diy-crafts-concept-illustration_114360-12413.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Mental Math Mastery",
+    "title": "Speed up your mental math with tested tricks and tips.",
+    "price": 40,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/mathematics-concept-illustration_114360-7333.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Climate & Nature",
+    "title": "Learn about climate change and how to save the Earth.",
+    "price": 70,
+    "category": "Educational",
+    "image": "https://img.freepik.com/free-vector/environmental-conservation-illustration_53876-26808.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Language Lab",
+    "title": "Practice vocabulary and language building in fun ways.",
+    "price": 45,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/language-learning-concept-illustration_114360-8210.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Music Theory",
+    "title": "Basics of notes, scales, and rhythm for beginners.",
+    "price": 60,
+    "category": "Hobby",
+    "image": "https://img.freepik.com/free-vector/musical-notes-background_1284-27919.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Cooking Fun",
+    "title": "Easy and tasty recipes kids can try with help.",
+    "price": 25,
+    "category": "Kids",
+    "image": "https://img.freepik.com/free-vector/kids-cooking-concept-illustration_114360-19361.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Entrepreneurship",
+    "title": "Think like an entrepreneur: ideas, planning, and execution.",
+    "price": 130,
+    "category": "Premium",
+    "image": "https://img.freepik.com/free-vector/entrepreneurship-concept-illustration_114360-11984.jpg"
+  }
+]

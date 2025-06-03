@@ -1,0 +1,82 @@
+[
+     {
+     "id": 1,
+     "name": "Story Book",
+     "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+     "price": 0,
+     "category": "Free",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 2,
+     "name": "Science Facts",
+     "title": "Explore the world of scientific wonders and discoveries.",
+     "price": 0,
+     "category": "Free",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 3,
+     "name": "Math Tricks",
+     "title": "Learn amazing math tricks to solve problems quickly.",
+     "price": 0,
+     "category": "Free",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 4,
+     "name": "History Tales",
+     "title": "Stories from ancient times and historical events.",
+     "price": 0,
+     "category": "Free",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 5,
+     "name": "Adventure Book",
+     "title": "Join the thrilling adventures through jungles and mountains.",
+     "price": 0,
+     "category": "Free",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 6,
+     "name": "Fairy Tales",
+     "title": "Magical stories for kids with fairylands and unicorns.",
+     "price": 50,
+     "category": "Paid",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 7,
+     "name": "Programming 101",
+     "title": "Basic guide to learn programming for beginners.",
+     "price": 100,
+     "category": "Premium",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 8,
+     "name": "Drawing Guide",
+     "title": "Step-by-step guide to improve your drawing skills.",
+     "price": 75,
+     "category": "Exclusive",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 9,
+     "name": "Space Book",
+     "title": "Discover the planets, stars, and galaxies in our universe.",
+     "price": 60,
+     "category": "Educational",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     },
+     {
+     "id": 10,
+     "name": "Health & Wellness",
+     "title": "Learn tips for staying healthy and maintaining wellness.",
+     "price": 40,
+     "category": "Kids",
+     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?semt=ais_hybrid&w=740"
+     }
+]

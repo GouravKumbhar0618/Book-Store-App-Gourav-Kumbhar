@@ -1,0 +1,5 @@
+1) cd  - frontend + backend
+
+2)     npm run dev & npm start
+
+3)    MongoDb Compass start
